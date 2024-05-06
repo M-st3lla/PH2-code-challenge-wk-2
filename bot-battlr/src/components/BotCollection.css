@@ -1,0 +1,36 @@
+.bot-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bot-item {
+    width: 200px;
+    margin: 70px;
+}
+
+.delete-button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.t-button {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

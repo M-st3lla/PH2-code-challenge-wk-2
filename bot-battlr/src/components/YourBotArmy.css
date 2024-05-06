@@ -1,0 +1,22 @@
+.bot-container3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bot-item3 {
+    width: 100px;
+    margin: 70px;
+}
+
+.your-bot-army {
+    background-color: brown;
+    position: relative;
+}
+
+h2,
+h1 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
